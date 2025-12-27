@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+    --font-sans: "DM Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+    /* font size custom */
+    --text-36: 36px;
+    --text-24: 24px;
+    --text-18: 18px;
+    --text-16: 16px;
+    --text-14: 14px;
+    --text-12: 12px;
+    --text-10: 10px;
+    /* warna palette dari teh Pat */
+    --color-darkgrey: #5a5a5a;
+    --color-lightgrey: #929292;
+    --color-bg: #fafaf9;
+    --color-filterbtnbg: #efefef;
+    --color-bordercard: #d9d9d9;
+    --color-socmedbg: #33363D;
+  }
